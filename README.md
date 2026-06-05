@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile
+# Welcome to My GitHub Profile
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Developer;Tech+Innovator;Problem+Solver" alt="Typing SVG" />
@@ -6,18 +6,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm **Kevin Omondi**, a passionate **Full Stack & Android Software Developer** dedicated to building modern, scalable web and mobile applications. With expertise in web technologies and mobile development, I transform complex problems into elegant, user-centric solutions across multiple platforms.
 
-- 🎯 **Focus**: Building student-led platforms, scalable digital solutions, modern web apps, and Android applications
-- 💡 **Passion**: Creating impactful technology that makes a difference
-- 🌐 **Portfolio**: [kevinomondi.vercel.app](https://kevinomondi.vercel.app)
-- 📧 **Contact**: Available for collaborations and exciting projects
+- **Focus**: Building student-led platforms, scalable digital solutions, modern web apps, and Android applications
+- **Passion**: Creating impactful technology that makes a difference
+- **Portfolio**: [kevinomondi.vercel.app](https://kevinomondi.vercel.app)
+- **Contact**: Available for collaborations and exciting projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -59,7 +59,7 @@ I'm **Kevin Omondi**, a passionate **Full Stack & Android Software Developer** d
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sir-Omondi&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180em" />
@@ -68,22 +68,22 @@ I'm **Kevin Omondi**, a passionate **Full Stack & Android Software Developer** d
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🌟 [Portfolio](https://kevinomondi.vercel.app) | Personal portfolio showcasing my work & expertise | Next.js, Tailwind CSS, React |
-| 📱 Student Platform | Innovative student-led learning solutions | React, Node.js, MongoDB |
-| 🔧 Web Applications | Full-stack scalable solutions | TypeScript, Express, PostgreSQL |
-| 📲 Android Apps | Native mobile applications | Kotlin, Java, Firebase |
+| [Portfolio](https://kevinomondi.vercel.app) | Personal portfolio showcasing my work & expertise | Next.js, Tailwind CSS, React |
+| Student Platform | Innovative student-led learning solutions | React, Node.js, MongoDB |
+| Web Applications | Full-stack scalable solutions | TypeScript, Express, PostgreSQL |
+| Android Apps | Native mobile applications | Kotlin, Java, Firebase |
 
 </div>
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
 ```
 ✨ Full Stack Development     ✨ Android App Development
@@ -95,7 +95,7 @@ I'm **Kevin Omondi**, a passionate **Full Stack & Android Software Developer** d
 
 ---
 
-## 📱 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -110,7 +110,7 @@ I'm **Kevin Omondi**, a passionate **Full Stack & Android Software Developer** d
 
 <div align="center">
 
-### 💻 Open for Opportunities
+### Open for Opportunities
 
 I'm actively looking for exciting projects and collaborations in web development and mobile app development. Feel free to reach out if you have an interesting opportunity or just want to connect!
 
