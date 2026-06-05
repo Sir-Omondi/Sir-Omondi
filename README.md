@@ -1,16 +1,16 @@
 # 👋 Welcome to My GitHub Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Innovator;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Developer;Tech+Innovator;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Kevin Omondi**, a passionate **Full Stack Software Developer** dedicated to building modern, scalable web applications and innovative digital solutions. With expertise in contemporary technologies, I transform complex problems into elegant, user-centric applications.
+I'm **Kevin Omondi**, a passionate **Full Stack & Android Software Developer** dedicated to building modern, scalable web and mobile applications. With expertise in web technologies and mobile development, I transform complex problems into elegant, user-centric solutions across multiple platforms.
 
-- 🎯 **Focus**: Building student-led platforms, scalable digital solutions, and modern web applications
+- 🎯 **Focus**: Building student-led platforms, scalable digital solutions, modern web apps, and Android applications
 - 💡 **Passion**: Creating impactful technology that makes a difference
 - 🌐 **Portfolio**: [kevinomondi.vercel.app](https://kevinomondi.vercel.app)
 - 📧 **Contact**: Available for collaborations and exciting projects
@@ -25,6 +25,12 @@ I'm **Kevin Omondi**, a passionate **Full Stack Software Developer** dedicated t
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
@@ -32,6 +38,10 @@ I'm **Kevin Omondi**, a passionate **Full Stack Software Developer** dedicated t
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Mobile Development
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -41,6 +51,7 @@ I'm **Kevin Omondi**, a passionate **Full Stack Software Developer** dedicated t
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -66,6 +77,7 @@ I'm **Kevin Omondi**, a passionate **Full Stack Software Developer** dedicated t
 | 🌟 [Portfolio](https://kevinomondi.vercel.app) | Personal portfolio showcasing my work & expertise | Next.js, Tailwind CSS, React |
 | 📱 Student Platform | Innovative student-led learning solutions | React, Node.js, MongoDB |
 | 🔧 Web Applications | Full-stack scalable solutions | TypeScript, Express, PostgreSQL |
+| 📲 Android Apps | Native mobile applications | Kotlin, Java, Firebase |
 
 </div>
 
@@ -74,9 +86,11 @@ I'm **Kevin Omondi**, a passionate **Full Stack Software Developer** dedicated t
 ## 🌟 Highlights
 
 ```
-✨ Full Stack Development    ✨ Modern Web Technologies
-✨ Problem Solving          ✨ Scalable Architecture
-✨ Clean Code              ✨ Team Collaboration
+✨ Full Stack Development     ✨ Android App Development
+✨ Modern Web Technologies    ✨ Mobile Architecture
+✨ Problem Solving           ✨ Scalable Architecture
+✨ Clean Code               ✨ Team Collaboration
+✨ Cross-Platform Solutions  ✨ Performance Optimization
 ```
 
 ---
@@ -98,7 +112,7 @@ I'm **Kevin Omondi**, a passionate **Full Stack Software Developer** dedicated t
 
 ### 💻 Open for Opportunities
 
-I'm actively looking for exciting projects and collaborations. Feel free to reach out if you have an interesting opportunity or just want to connect!
+I'm actively looking for exciting projects and collaborations in web development and mobile app development. Feel free to reach out if you have an interesting opportunity or just want to connect!
 
 [![View My Work](https://img.shields.io/badge/-View%20My%20Portfolio-2196F3?style=for-the-badge)](https://kevinomondi.vercel.app)
 
